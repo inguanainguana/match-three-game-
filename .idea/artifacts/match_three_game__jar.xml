@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="match-three-game-:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/match_three_game__jar</output-path>
+    <root id="archive" name="match-three-game-.jar">
+      <element id="module-output" name="match-three-game-" />
+    </root>
+  </artifact>
+</component>
